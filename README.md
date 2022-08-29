@@ -5,6 +5,8 @@ This fork changes the way the website looks.
 
 You can use WeirdM online at **https://rebane2001.com/weirdm/**.
 
+However to use the fork you need to **[download](https://github.com/Banaanae/WeirdM/archive/refs/heads/mane.zip)** the code and open index.html
+
 ## Guide
 
 | Discord RESIZING WebMs tutorial (easiest method, NO DOWNLOADS) |
